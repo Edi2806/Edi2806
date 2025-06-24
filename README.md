@@ -29,7 +29,7 @@ Adaptive traffic light control system using SUMO, MQTT, Node-RED, and Python for
 
 ## 📫 Let's Connect
 
-- 📧 Email: edinson.alva.diaz@gmail.com  
+- 📧 Email: edialvadiaz@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/edinson-alva-080286229/)  
 - 🌐 Portfolio Website: *Coming Soon...*
 
