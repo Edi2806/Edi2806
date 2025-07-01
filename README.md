@@ -1,29 +1,41 @@
 # 👋 Hi, I'm Edinson Alva Diaz
 
-I'm a Computer Systems Engineering student based in London 🇬🇧, passionate about embedded systems, IoT, robotics, and software development.
-
-🔧 Currently completing my BSc Top-Up degree  
-🤖 Building smart, connected systems using Python, Raspberry Pi, MQTT, and real-time simulations  
-💻 Exploring autonomous vehicles, traffic systems, and IoT dashboards
+🎓 Final-year Computing Engineering Systems student at **London South Bank University**  
+💡 Passionate about **Python**, **IoT**, **Embedded Systems**, and solving real-world problems with code  
+🌍 Based in **London, UK**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛰️ [Wireless Surveillance Car](https://github.com/Edi2806/wireless-surveillance-car)  
-Modular robotic vehicle using the PiCar-X with manual and autonomous control, live video, and obstacle detection.
+### 📦 [Wireless Surveillance Car](https://github.com/Edi2806/Wireless-Surveillance-Car)  
+A smart car using Raspberry Pi and Python for live video streaming, ultrasonic obstacle detection, and IoT remote control.
 
-### 🚦 [IoT Traffic Simulation](https://github.com/Edi2806/iot-traffic-simulation)  
-Adaptive traffic light control system using SUMO, MQTT, Node-RED, and Python for congestion reduction.
+### 🚦 [IoT Traffic Simulation](https://github.com/Edi2806/IoT_Final_Simulation)  
+Simulated traffic lights controlled by MQTT and Node-RED, using SUMO and Python for data analysis and optimization.
+
+### 💾 [Cache & Database Project](https://github.com/Edi2806/Cache-and-Database-Project)  
+SMPCache simulator used to evaluate cache memory protocols and a full student registration system with SQLite + Tkinter.
 
 ---
 
-## 🧠 Skills & Tools
+## 🛠️ Tech Stack
 
-- **Languages:** Python, C, HTML/CSS, JavaScript (basic), SQL
-- **Platforms:** Raspberry Pi, Linux, Windows
-- **Tools:** MQTT, Node-RED, OpenCV, SUMO, Jupyter, Git/GitHub, Vilib, SQLite
-- **Concepts:** IoT, real-time systems, robotics, sensor fusion, automation
+- **Languages:** Python, C, SQL, JavaScript  
+- **Frameworks/Tools:** SQLite, Tkinter, Node-RED, MQTT, SUMO, Git, VS Code  
+- **Platforms:** Raspberry Pi, Ubuntu, UTM, Windows 11  
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [GitHub](https://github.com/Edi2806)
+
+---
+
+> “I build things that bridge the gap between the physical world and software.”
+
 
 ---
 
