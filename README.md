@@ -11,7 +11,7 @@
 ### 📦 [Wireless Surveillance Car](https://github.com/Edi2806/Wireless-Surveillance-Car)  
 A smart car using Raspberry Pi and Python for live video streaming, ultrasonic obstacle detection, and IoT remote control.
 
-### 🚦 [IoT Traffic Simulation](https://github.com/Edi2806/IoT-Final-Simulation)  
+### 🚦 [IoT Traffic Simulation](https://github.com/Edi2806/IoT-IoT-Traffic-Simulation) 
 Simulated traffic lights controlled by MQTT and Node-RED, using SUMO and Python for data analysis and optimization.
 
 ### 💾 [Cache & Database Project](https://github.com/Edi2806/Cache-and-Database-Project)  
