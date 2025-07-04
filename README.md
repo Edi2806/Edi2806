@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edinson Alva Diaz
 
-🎓 Final-year Computing Engineering Systems student at **London South Bank University**  
+🎓 I recently graduated with a BSc in Computer Engineering Systems and have completed several hands-on projects in IoT, software development, and embedded systems. at **London South Bank University**  
 💡 Passionate about **Python**, **IoT**, **Embedded Systems**, and solving real-world problems with code  
 🌍 Based in **London, UK**
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Featured Projects
 
-### 📦 [Wireless Surveillance Car](https://github.com/Edi2806/Wireless-Surveillance-Car)  
+### 📦 [Wireless Surveillance Car (Final Project)](https://github.com/Edi2806/Wireless-Surveillance-Car)  
 A smart car using Raspberry Pi and Python for live video streaming, ultrasonic obstacle detection, and IoT remote control.
 
 ### 🚦 [IoT Traffic Simulation](https://github.com/Edi2806/IoT-Traffic-Simulation) 
