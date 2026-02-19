@@ -43,7 +43,7 @@ SMPCache simulator used to evaluate cache memory protocols and a full student re
 
 - 📧 Email: [edialvadiaz@gmail.com](mailto:edialvadiaz@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/edinson-alva-080286229/)  
-- 🌐 Portfolio Website:https://edi2806.github.io/
+- 🌐 Portfolio Website: https://edi2806.github.io/
 ---
 
 > "Technology should serve people — I build systems that are smart, efficient, and accessible."
